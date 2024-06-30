@@ -3,7 +3,7 @@
     $hostName = "localhost";
     $dbUser = "root";
     $dbPassword = "";
-    $dbName = "login__register";
+    $dbName = "blog_php";
 
     $conn = mysqli_connect($hostName, $dbUser, $dbPassword, $dbName);
 
